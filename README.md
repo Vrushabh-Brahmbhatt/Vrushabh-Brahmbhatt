@@ -1,5 +1,7 @@
 # Hi there! I'm Vrushabh Brahmbhatt 👋
-Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative solutions that bridge human needs with technology. I enjoy exploring new technologies and frameworks while building practical applications that solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative solutions that bridge human needs with technology. I enjoy exploring new technologies and frameworks while building practical applications that solve real-world problems
+
+<img src="https://komarev.com/ghpvc/?username=Vrushabh-Brahmbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="Vrushabh-Brahmbhatt" />
 
 ## 🔧 Technologies & Tools I Use:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
